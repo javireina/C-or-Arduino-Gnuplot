@@ -5,9 +5,9 @@
 
 RTC_DS1307 rtc;
 
-int SSSS,MMMM,HHHH,DDDD,CCCC; //variables
-long YYYY; //variable 
-DateTime rtcOutPut; //vairable for obtaininh both date and time
+int SSSS,MMMM,HHHH,DDDD,CCCC; //variables for seconds, minutes, hour, day and month
+long YYYY; //variable for year
+DateTime rtcOutPut; //variable for obtaining both date and time
 
 using namespace std;
 
