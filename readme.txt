@@ -1,6 +1,6 @@
 FOR C++
 1st - Open wgnuplot.exe
-      Change the directory-> write the command: cd 'C:\gnuplotexamples' (put your actual
+      Change the directory-> write the command: cd 'C:\gnuplotexamples' (put your actual directory)
       Load the plot file-> write the command: load "plot.p"
 2nd - Keep generating your data (in the example, run the code 'sinewithdelay.cpp')
 
@@ -13,7 +13,7 @@ FOR ARDUINO
       Connect-> go to 'Connection' foldable on the top > file capture > start; go to the same folder where the gnuplot script is and name your file 'data.csv'
 3rd - Adapt the gnuplot script-> Open 'plot2.p' with the notepad, adjust the xrange to your date (don't worry, it is in autoscale) 
 4th - Open wgnuplot.exe
-      Change the directory-> write the command: cd 'C:\gnuplotexamples'
+      Change the directory-> write the command: cd 'C:\gnuplotexamples' (put your actual directory)
       Load the plot file-> write the command: load "plot2.p"
 
 
